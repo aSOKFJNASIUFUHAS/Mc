@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-05 22:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-05 22:11:19 +0000"
@@ -153,6 +159,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-05 22:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-05 22:21:04 +0000"
     },
     "done": true
   },
