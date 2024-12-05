@@ -862,3 +862,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+2024-12-05 22:26:22,036 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! SCARCE chest at coords: 24 83 568
+2024-12-05 22:26:35,465 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! UNCOMMON chest at coords: 88 71 600
+2024-12-05 22:27:00,506 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: -248 77 600
+2024-12-05 22:27:24,955 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! UNCOMMON chest at coords: -248 72 680
+2024-12-05 22:27:44,873 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! SCARCE chest at coords: -152 75 696
+2024-12-05 22:29:29,641 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: -56 70 712
+2024-12-05 22:30:49,939 [Server thread] INFO Treasure2 | WellGenerator.java:114 | CHEATER! Wishing Well at coords: -344 81 374
+2024-12-05 22:30:56,682 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: -360 68 424
+2024-12-05 22:31:37,674 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! EPIC chest at coords: -376 70 344
+2024-12-05 22:31:46,731 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: -408 64 552
+2024-12-05 22:32:01,713 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! RARE chest at coords: -440 63 392
+2024-12-05 22:34:00,147 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: -376 71 728

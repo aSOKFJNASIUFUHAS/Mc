@@ -4057,3 +4057,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [22:24:53] [Server thread/INFO] [journeymap]: MAXI999 joining dimension 0
 [22:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 has made the advancement [Monster Hunter]
 [22:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 has made the advancement [Monster Hunter]
+[22:26:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:26:33] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:26:49] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 is bleeding ...
+[22:29:23] [Server thread/INFO] [tombstone]: The death event of the player Feli6527 was cancelled by another mod
+[22:30:50] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 has made the advancement [Acquire Hardware]
+[22:31:37] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:42] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:46] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:31:57] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:32:01] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:33:55] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:35:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Feli6527 lost connection: Disconnected
+[22:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 left the game
