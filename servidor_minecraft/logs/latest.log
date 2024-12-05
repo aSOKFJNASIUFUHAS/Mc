@@ -4955,3 +4955,220 @@ java.lang.RuntimeException: Missing
 [23:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 was incinerated by a dragon
 [23:26:07] [Server thread/INFO] [tombstone]: The last known grave of Feli6527 is at location [name:Last Grave, x:267, y:74, z:20] in the dimension 0
 [23:26:09] [Server thread/INFO] [journeymap]: Feli6527 joining dimension 0
+[23:26:13] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
+[23:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 is bleeding ...
+[23:26:30] [Server thread/INFO] [tombstone]: The death event of the player MAXI999 was cancelled by another mod
+[23:26:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MAXI999 moved wrongly!
+[23:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 was slain by Fire Dragon
+[23:26:41] [Server thread/INFO] [tombstone]: The last known grave of MAXI999 is at location [name:Last Grave, x:179, y:77, z:-67] in the dimension 0
+[23:26:44] [Server thread/INFO] [journeymap]: MAXI999 joining dimension 0
+[23:27:45] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[23:27:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:27:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:27:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:27:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:28:16] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [31, -9] in dimension 0 (overworld) while populating chunk [30, -9], causing cascading worldgen lag.
+[23:28:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:28:35] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:28:43] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 is bleeding ...
+[23:28:48] [Server thread/INFO] [tombstone]: The death event of the player Feli6527 was cancelled by another mod
+[23:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 burned to death
+[23:29:00] [Server thread/INFO] [tombstone]: The last known grave of Feli6527 is at location [name:Last Grave, x:44, y:70, z:40] in the dimension 0
+[23:29:02] [Server thread/INFO] [journeymap]: Feli6527 joining dimension 0
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:getVillagePieceWeight:19]: Getting village TekHouse2 piece weight
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:getVillagePieceWeight:19]: Getting village TekHouse2 piece weight
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekTownHallHandler:getVillagePieceWeight:19]: Getting village TekTownHall piece weight
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:getVillagePieceWeight:19]: Getting village TekHouse6 piece weight
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStorageHallHandler:getVillagePieceWeight:19]: Getting village TekStorageHall piece weight
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekTownHallHandler:buildComponent:50]: TekTownHall buildComponent() at 834, 74, -230
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStorageHallHandler:buildComponent:50]: TekStorageHall buildComponent() at 838, 74, -229
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 842, 74, -238
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 840, 74, -234
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 857, 74, -257
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 857, 74, -248
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 861, 74, -255
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 834, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -252
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -247
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -247
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -247
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 838, 74, -247
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 841, 74, -263
+[23:29:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 846, 74, -263
+[23:29:13] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [44, -21] in dimension 0 (overworld) while populating chunk [43, -21], causing cascading worldgen lag.
+[23:29:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:29:15] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[23:29:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2663ms behind, skipping 53 tick(s)
+[23:29:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Feli6527 moved too quickly! 4.139399108435612,-2.395575898673286,8.882692772031564
+[23:29:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:29:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:30:21] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [48, 1] in dimension 0 (overworld) while populating chunk [48, 0], causing cascading worldgen lag.
+[23:30:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:30:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Feli6527 lost connection: Disconnected
+[23:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 left the game
+[23:30:50] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [56, -3] in dimension 0 (overworld) while populating chunk [57, -2], causing cascading worldgen lag.
+[23:30:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:30:52] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [51, -4] in dimension 0 (overworld) while populating chunk [53, -3], causing cascading worldgen lag.
+[23:30:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:30:53] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:30:53] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 100 mods : mclib@1.0.3,astralsorcery@1.10.20,zawa@1.12.2-1.7.0,creativecoredummy@1.0.0,mobdismemberment@7.0.0,casinocraft@v06,craftstudioapi@1.0.0,ctm@MC1.12.2-1.0.1.30,placebo@1.6.0,playerskins@1.0.4,futuremccore@0.1.12,fencejumper@1.0.5,bookshelf@2.3.590,forgelin@1.8.4,llibrary@1.7.19,minecraftfuture@0.1.13,morpheus@1.12.2-3.5.106,foamflower@1.12.2-1.0.0.0-beta1,waila@1.8.26,props@2.6.3,waterstrainer@3.2.0,emoticons@0.3.2,mcjtylib_ng@3.5.4,mcmultipart@2.5.3,dragonmounts@1.12.2-1.6.3,malisisdoors@1.12.2-7.3.0,charset@0.5.6.3,malisiscore@1.12.2-6.5.1-SNAPSHOT,torchmaster@1.8.1.81,ptrmodellib@1.0.4,ambientsounds@3.0,openterraingenerator@v8.3,treasure2@1.7.0,fairylights@2.1.9,eyesinthedarkness@0.1.0,tektopia@1.1.0,otgcore@1.12.2 - v8.3,elevatorid@1.3.14,leatherworks@1.78.0,FML@8.0.99.99,gottschcore@1.9.0,tombstone@3.6.4,customnpcs@1.12,cfm@6.3.1,dynamictrees@1.12.2-0.9.6,playerrevive@1.0,netherex@2.0.15,magneticraft@2.7.0,mowziesmobs@1.5.4,mca@6.1.0,jei@4.15.0.268,emberroot@1.3.9,nightmares@1.0.4,reap@1.5.2,mcp@9.42,journeymap@1.12.2-5.5.4,comforts@1.4.1.2,naturescompass@1.8.0,harvestcraft@1.12.2zb,foamfixcore@7.7.4,vending@1.12.2-3.0.1.2,fossil@8.0.5,iceandfire@1.8.3,ichunutil@7.2.2,traverse@1.6.0,forge@14.23.5.2860,explorercraft@2.2.8,chococraft@0.9.8.0,infernalmobs@1.7.6,variedcommodities@1.12.2,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,baubles@1.5.2,roost@1.3.0,creativecore@1.9.9,rustic@1.1.2,extrautils2@1.0,of@0.13.1,bloodmoon@1.5.3,spartanshields@1.5.4,thebetweenlands@3.5.4,fastbench@1.7.3,securitycraft@v1.8.14.1,libraryex@1.0.12,cactusmod@1.3.2,harvest@1.12-1.2.7-20,moarboats@4.1.2.1,railcraft@12.0.0,farfromhome@1.0,opframe@1.4.0,hidenames@1.4,appleskin@1.0.9,magma_monsters@0.3.0,chisel@MC1.12.2-1.0.1.44,foamfix@0.10.10-1.12.2,bookworm@1.12.2-2.3.0,chiselsandbits@14.33,modernlamps@1.0.3,immcraft@1.6.0,modelloader@1.1.7
+[23:30:53] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:getVillagePieceWeight:19]: Getting village TekHouse2 piece weight
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:getVillagePieceWeight:19]: Getting village TekHouse2 piece weight
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekTownHallHandler:getVillagePieceWeight:19]: Getting village TekTownHall piece weight
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:getVillagePieceWeight:19]: Getting village TekHouse6 piece weight
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStorageHallHandler:getVillagePieceWeight:19]: Getting village TekStorageHall piece weight
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekTownHallHandler:buildComponent:50]: TekTownHall buildComponent() at 1074, 74, 250
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStorageHallHandler:buildComponent:50]: TekStorageHall buildComponent() at 1074, 74, 263
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 1078, 74, 250
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 1078, 74, 260
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 1078, 74, 268
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 1083, 74, 246
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 1094, 74, 246
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 1074, 74, 215
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 1078, 74, 214
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 1078, 74, 224
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 1078, 74, 232
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 1078, 74, 232
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 1078, 74, 232
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2Handler:buildComponent:50]: TekHouse2 buildComponent() at 1040, 74, 242
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse6Handler:buildComponent:50]: TekHouse6 buildComponent() at 1049, 74, 242
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 1040, 74, 246
+[23:30:54] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekHouse2bHandler:buildComponent:50]: TekHouse2 buildComponent() at 1063, 74, 246
+[23:30:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:30:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Feli6527[/127.33.247.236:52587] logged in with entity id 435312 at (297.12515085377333, 76.0, 85.78722785466948)
+[23:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Feli6527 joined the game
+[23:30:58] [Server thread/INFO] [journeymap]: Feli6527 joining dimension 0
+[23:30:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Feli6527'/435312, l='world', x=297.13, y=76.00, z=85.79] connected. Sending ping
+[23:30:58] [Server thread/INFO] [journeymap]: Sending log in packet.
+[23:30:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Feli6527...
+[23:30:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Feli6527
+[23:31:01] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [59, -2] in dimension 0 (overworld) while populating chunk [59, -1], causing cascading worldgen lag.
+[23:31:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:28] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [64, 14] in dimension 0 (overworld) while populating chunk [64, 13], causing cascading worldgen lag.
+[23:32:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:28] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [64, 15] in dimension 0 (overworld) while populating chunk [64, 14], causing cascading worldgen lag.
+[23:32:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:28] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:red_mechanic`. A random skin will be generated.
+[23:32:28] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Village ADDED - [MK3]   a9c47b09-6087-4a4e-8265-d0f391a81663
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure TOWNHALL [BlockPos{x=1074, y=68, z=251}]
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1077, y=68, z=250}
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1077, y=68, z=261}
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1075, y=73, z=266}
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Storage Chest [BlockPos{x=1070, y=72, z=265}]   Added    (1 total)
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Storage Chest [BlockPos{x=1065, y=72, z=269}]   Added    (2 total)
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Storage Chest [BlockPos{x=1065, y=72, z=267}]   Added    (3 total)
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure STORAGE [BlockPos{x=1074, y=72, z=265}]
+[23:32:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1077, y=69, z=268}
+[23:32:29] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [58, 20] in dimension 0 (overworld) while populating chunk [59, 20], causing cascading worldgen lag.
+[23:32:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:30] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[23:32:30] [Server thread/WARN] [mca]: No skin found for profession: `railcraft:trackman`. A random skin will be generated.
+[23:32:30] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[23:32:30] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[23:32:30] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [67, 7] in dimension 0 (overworld) while populating chunk [68, 9], causing cascading worldgen lag.
+[23:32:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:32:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2151ms behind, skipping 43 tick(s)
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1040, y=71, z=243}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1041, y=70, z=242}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1043, y=73, z=245}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1042, y=72, z=246}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1050, y=71, z=243}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME6 [BlockPos{x=1051, y=70, z=242}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1066, y=72, z=245}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1065, y=71, z=246}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1073, y=71, z=215}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1077, y=73, z=214}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1078, y=72, z=215}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1075, y=71, z=217}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1074, y=70, z=216}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1077, y=72, z=225}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1078, y=71, z=226}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1078, y=67, z=251}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1086, y=68, z=245}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1085, y=67, z=246}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1078, y=67, z=262}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME2 [BlockPos{x=1078, y=68, z=269}]
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Binding Structure Marker to village - BlockPos{x=1097, y=68, z=245}
+[23:32:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Adding structure HOME6 [BlockPos{x=1096, y=67, z=246}]
+[23:32:32] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Tylsa Oakenheart|448844  Attaching to village
+[23:32:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Makani Coyle|448842  Attaching to village
+[23:32:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Azura Merrill|449018  Attaching to village
+[23:32:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityLumberjack|Molly Morning|449020  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Rosalyn Gullscream|449059  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityCleric|Rudelle Zatchet|449077  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Alaric Donoghan|449080  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Vencia Soper|449081  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityLumberjack|Rolanda Talandro|449058  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Makani Bakaneko|449076  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Tavon Carnavon|448867  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Xandrilla Endless|449069  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Tegan Swiller|449012  Attaching to village
+[23:32:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityNitwit|Tura Seratolva|448843  Attaching to village
+[23:32:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityLumberjack|Namen Shalabim|448841  Attaching to village
+[23:32:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] EntityFarmer|Tylsa Valur|448868  Attaching to village
+[23:32:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] Village REMOVED - [MK3]   a9c47b09-6087-4a4e-8265-d0f391a81663
+[23:32:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [MK3] == Village being destroyed ==
+[23:32:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity dynamictrees:falling_tree but it was marked as removed already
+[23:32:42] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:773) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at net.tangotek.tektopia.entities.EntityCleric.getDefaultMovement(EntityCleric.java:89) ~[EntityCleric.class:1.1.0]
+	at net.tangotek.tektopia.entities.ai.EntityAIHeal.func_75251_c(EntityAIHeal.java:154) ~[EntityAIHeal.class:1.1.0]
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:113) ~[xf.class:?]
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:763) ~[vq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) ~[vq.class:?]
+	at net.tangotek.tektopia.entities.EntityVillageNavigator.func_70636_d(EntityVillageNavigator.java:282) ~[EntityVillageNavigator.class:1.1.0]
+	at net.tangotek.tektopia.entities.EntityVillagerTek.func_70636_d(EntityVillagerTek.java:818) ~[EntityVillagerTek.class:1.1.0]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) ~[vq.class:?]
+	at net.tangotek.tektopia.entities.EntityCleric.func_70071_h_(EntityCleric.java:119) ~[EntityCleric.class:1.1.0]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) ~[oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) ~[amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) ~[MinecraftServer.class:?]
+	... 4 more
+[23:32:42] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/Mc/servidor_minecraft/./crash-reports/crash-2024-12-05_23.32.42-server.txt
+[23:32:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:32:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:32:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:32:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:32:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[23:32:42] [Server thread/INFO] [NetherEx]: Writing Nether biome data configs to disk.
+[23:32:42] [Server thread/INFO] [NetherEx]: Writing Pigtificate trade configs to disk.
+[23:32:42] [Server thread/WARN] [mca]: Crash detected! Attempting to upload report...
+[23:32:42] [Server thread/ERROR] [mca]: Failed to submit crash report. Non-OK response code returned: 301
+[23:32:44] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:32:44] [Server thread/INFO] [FML]: Unloading dimension -9999
+[23:32:44] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 0 data blobs
+[23:32:44] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[23:32:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:32:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
