@@ -1,0 +1,337 @@
+{
+	"biome": "netherex:torrid_wasteland",
+	"generationWeight": 6,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"isEnabled": true,
+	"blocks": {
+		"surfaceBlock": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"subsurfaceBlock": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"caveCeilingBlock": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"caveWallBlock": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"caveFloorBlock": {
+			"block": "netherex:fiery_netherrack"
+		},
+		"fluidBlock": {
+			"block": "minecraft:lava"
+		}
+	},
+	"entities": [
+		{
+			"entity": "minecraft:magma_cube",
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "netherex:ember",
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "netherex:salamander",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "eyesinthedarkness:eyes",
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "zawa:zookeeper",
+			"spawnWeight": 5,
+			"minimumGroupCount": 0,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:animaltrader",
+			"spawnWeight": 5,
+			"minimumGroupCount": 0,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:feedtrader",
+			"spawnWeight": 5,
+			"minimumGroupCount": 0,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:meerkat",
+			"spawnWeight": 40,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:asianelephant",
+			"spawnWeight": 25,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:koala",
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:redkangaroo",
+			"spawnWeight": 35,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:gaur",
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:bengaltiger",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:africanlion",
+			"spawnWeight": 20,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "zawa:cockatoo",
+			"spawnWeight": 25,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6
+		}, 
+		{
+			"entity": "zawa:treefrog",
+			"spawnWeight": 35,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "zawa:toucan",
+			"spawnWeight": 25,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6
+		}, 
+		{
+			"entity": "zawa:redpanda",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "zawa:macaw",
+			"spawnWeight": 30,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6
+		}, 
+		{
+			"entity": "zawa:westernlowlandgorilla",
+			"spawnWeight": 10,
+			"minimumGroupCount": 5,
+			"maximumGroupCount": 6
+		}, 
+		{
+			"entity": "zawa:reticulatedgiraffe",
+			"spawnWeight": 5,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:grevyszebra",
+			"spawnWeight": 25,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:fijibandediguana",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:blackrhinoceros",
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:blackspidermonkey",
+			"spawnWeight": 30,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "zawa:indianpangolin",
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "zawa:greenanaconda",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}
+	],
+	"traits": [
+		{
+			"trait": "libraryex:pool",
+			"generationAttempts": 8,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
+			"blockToSurround": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"generationStage": "terrain_alteration"
+		}, 
+		{
+			"trait": "libraryex:fluid",
+			"generationAttempts": 16,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"maximumGenerationHeight": 124,
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"generateFalling": false,
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:scatter",
+			"generationAttempts": 20,
+			"randomizeGenerationAttempts": true,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"maximumGenerationHeight": 124,
+			"blockToSpawn": {
+				"block": "minecraft:fire"
+			},
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"placement": "on_ground",
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:cluster",
+			"generationAttempts": 10,
+			"randomizeGenerationAttempts": true,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"maximumGenerationHeight": 124,
+			"direction": "down",
+			"blockToAttachTo": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:cluster",
+			"generationAttempts": 10,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"maximumGenerationHeight": 128,
+			"direction": "down",
+			"blockToAttachTo": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:fluid",
+			"generationAttempts": 32,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 118,
+			"blockToTarget": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"generateFalling": true,
+			"generationStage": "decoration"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 16,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
+			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "netherex:quartz_ore"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 16,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
+			"veinSize": 24,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "netherex:basalt"
+			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 8,
+			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
+			"veinSize": 32,
+			"blockToReplace": {
+				"block": "netherex:fiery_netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:magma"
+			},
+			"generationStage": "ore"
+		}
+	],
+	"subBiomes": []
+}
