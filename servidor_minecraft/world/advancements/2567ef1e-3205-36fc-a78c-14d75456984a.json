@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "biofossil": "2024-12-08 15:56:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2024-12-05 22:24:52 +0000"

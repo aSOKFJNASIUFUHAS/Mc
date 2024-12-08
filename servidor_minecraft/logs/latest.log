@@ -4625,3 +4625,179 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [15:54:42] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  GatherCane start BlockPos{x=1395, y=63, z=686}
 [15:54:44] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  Attaching to village
 [15:54:51] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  ChopTree [ 1325, 716] Chopped: 5
+[15:55:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  GatherCane start BlockPos{x=1397, y=63, z=688}
+[15:55:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|71578  ChopTree [ 1299, 618] Chopped: 5
+[15:55:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  GatherCane [ 1395, 686] Arrived at Destination: BlockPos{x=1394, y=63, z=686}
+[15:55:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  GatherCane [ 1395, 686] Starting
+[15:55:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  GatherCane [ 1395, 686] Chopped: 1
+[15:55:08] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|58198  ChopTree [ 1308, 712] Chopped: 10
+[15:55:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  ChopTree [ 1284, 638] Chopped: 6
+[15:55:13] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Rosemourne Kram|70699  Skill Change - farmer --> 5
+[15:55:15] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|58199  ChopTree [ 1362, 714] Chopped: 6
+[15:55:20] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Bob Coldshore|57161  ChopTree [ 1291, 698] Chopped: 5
+[15:55:24] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=1285, y=72, z=684}
+[15:55:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Removing structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[15:55:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[15:55:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  Attaching to village
+[15:55:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Austin Kroft|77041  Attaching to village
+[15:55:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  ChopTree [ 1382, 699] Chopped: 4
+[15:55:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|58198  ChopTree [ 1294, 696] Chopped: 5
+[15:55:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  Skill Change - lumberjack --> 4
+[15:55:34] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  ChopTree [ 1377, 706] Chopped: 4
+[15:56:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  GatherCane [ 1397, 688] Arrived at Destination: BlockPos{x=1396, y=63, z=688}
+[15:56:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  GatherCane [ 1397, 688] Starting
+[15:56:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  GatherCane [ 1397, 688] Chopped: 1
+[15:56:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  ChopTree [ 1312, 717] Chopped: 4
+[15:56:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=1285, y=72, z=684}
+[15:56:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Removing structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[15:56:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[15:56:15] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|77659  Attaching to village
+[15:56:17] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  ChopTree [ 1308, 716] Chopped: 3
+[15:56:17] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Bob Coldshore|57161  ChopTree [ 1373, 713] Chopped: 5
+[15:56:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  ChopTree [ 1395, 697] Chopped: 5
+[15:56:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  ChopTree [ 1349, 725] Chopped: 4
+[15:56:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 has made the advancement [Digging Deep]
+[15:56:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  Skill Change - farmer --> 2
+[15:56:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|58198  ChopTree [ 1295, 713] Chopped: 5
+[15:56:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  Skill Change - lumberjack --> 2
+[15:56:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  ChopTree [ 1267, 652] Chopped: 8
+[15:56:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  Skill Change - lumberjack --> 3
+[15:56:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  ChopTree [ 1268, 675] Chopped: 5
+[15:56:50] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Jaelynn Cassanova|58166  Skill Change - farmer --> 3
+[15:57:11] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  ChopTree [ 1264, 663] Chopped: 5
+[15:57:16] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  Skill Change - lumberjack --> 3
+[15:57:16] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  ChopTree [ 1399, 698] Chopped: 5
+[15:57:23] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  ChopTree [ 1275, 696] Chopped: 7
+[15:57:32] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  ChopTree [ 1327, 731] Chopped: 4
+[15:57:33] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Bob Coldshore|57161  ChopTree [ 1269, 682] Chopped: 4
+[15:57:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|77659  ChopTree [ 1377, 720] Chopped: 6
+[15:57:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  ChopTree [ 1332, 733] Chopped: 4
+[15:58:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|58198  ChopTree [ 1268, 635] Chopped: 5
+[15:58:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  Skill Change - lumberjack --> 4
+[15:58:12] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Milos Shaulfer|71577  ChopTree [ 1359, 676] Chopped: 5
+[15:58:30] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|80030  Attaching to village
+[15:58:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  ChopTree [ 1344, 734] Chopped: 5
+[15:58:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Cassandra Arun|71143  Skill Change - farmer --> 2
+[15:58:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityNitwit|Cale Valur|57927  Crowding penalty [-4] in HOME2 at BlockPos{x=1319, y=68, z=670}
+[15:58:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  ChopTree [ 1306, 727] Chopped: 6
+[15:58:55] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  Skill Change - lumberjack --> 5
+[15:58:55] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  ChopTree [ 1264, 647] Chopped: 2
+[15:58:57] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Austin Kroft|77041  Crowding penalty [-7] in HOME2 at BlockPos{x=1297, y=66, z=680}
+[15:58:58] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  ChopTree [ 1292, 719] Chopped: 5
+[15:59:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|77659  ChopTree [ 1323, 733] Chopped: 4
+[15:59:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Remora Revenmar|70698  Crowding penalty [-5] in HOME2 at BlockPos{x=1306, y=67, z=679}
+[15:59:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  Crowding penalty [-8] in HOME2 at BlockPos{x=1306, y=67, z=680}
+[15:59:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Davaril Bookworm|71570  Crowding penalty [0] in HOME6 at BlockPos{x=1319, y=68, z=679}
+[15:59:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Bob Coldshore|57161  Crowding penalty [0] in HOME6 at BlockPos{x=1319, y=68, z=677}
+[15:59:11] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Rosemourne Kram|70699  Crowding penalty [-4] in HOME2 at BlockPos{x=1334, y=70, z=664}
+[15:59:15] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Bennett Bookworm|75857  Crowding penalty [-7] in HOME2 at BlockPos{x=1297, y=66, z=680}
+[15:59:17] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Zaid Bakaneko|76203  Crowding penalty [0] in HOME6 at BlockPos{x=1320, y=68, z=679}
+[15:59:27] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Cassandra Arun|71143  Crowding penalty [-7] in HOME2 at BlockPos{x=1319, y=68, z=669}
+[15:59:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Saidi Noises|57914  Crowding penalty [-4] in HOME2 at BlockPos{x=1357, y=68, z=647}
+[15:59:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Gil Jones|57926  Crowding penalty [-8] in HOME2 at BlockPos{x=1297, y=66, z=680}
+[15:59:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  Crowding penalty [-4] in HOME6 at BlockPos{x=1320, y=68, z=680}
+[15:59:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Owen Varzand|80030  Crowding penalty [-4] in HOME6 at BlockPos{x=1325, y=68, z=681}
+[15:59:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  Idle for 60 seconds
+[16:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[16:00:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Sachil Zoan|77022  Crowding penalty [-8] in HOME2 at BlockPos{x=1306, y=67, z=680}
+[16:00:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Spawning merchant at BlockPos{x=1219, y=66, z=548}
+[16:00:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|77659  Idle for 60 seconds
+[16:00:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Isaac Coyle|57924  was idle for 66 seconds.
+[16:00:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Dian Sol|77659  was idle for 60 seconds.
+[16:00:08] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Spawning Nomad at BlockPos{x=1219, y=66, z=548}
+[16:00:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityFarmer|Rosemourne Kram|70699  Skill Change - farmer --> 6
+[16:00:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  Skill Change - lumberjack --> 6
+[16:00:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] EntityLumberjack|Nate Fallenbridge|71580  ChopTree [ 1371, 653] Chopped: 4
+[16:00:53] [Server thread/WARN] [FML]: Dragon Mounts loaded a new chunk [75, 59] in dimension 0 (overworld) while populating chunk [76, 60], causing cascading worldgen lag.
+[16:00:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:00:57] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] Village REMOVED - [5QE]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:00:57] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [5QE] == Village being destroyed ==
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Village ADDED - [ODA]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure TOWNHALL [BlockPos{x=1324, y=69, z=658}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1318, y=68, z=670}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME6 [BlockPos{x=1318, y=68, z=677}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1334, y=70, z=662}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Storage Chest [BlockPos{x=1340, y=69, z=649}]   Added    (1 total)
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Storage Chest [BlockPos{x=1338, y=69, z=654}]   Added    (2 total)
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Storage Chest [BlockPos{x=1342, y=69, z=649}]   Added    (3 total)
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure STORAGE [BlockPos{x=1338, y=69, z=658}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1355, y=64, z=639}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1355, y=68, z=647}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1343, y=69, z=662}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityGuard|Madian Goldrudder|71142  Attaching to village
+[16:00:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Bennett Bookworm|75857  Attaching to village
+[16:01:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Gil Jones|57926  Attaching to village
+[16:01:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityNitwit|Cale Valur|57927  Attaching to village
+[16:01:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Austin Kroft|77041  Attaching to village
+[16:01:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Bob Coldshore|57161  Attaching to village
+[16:01:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Isaac Coyle|57924  Attaching to village
+[16:01:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Remora Revenmar|70698  Attaching to village
+[16:01:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Saidi Noises|82513  Attaching to village
+[16:01:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Zaid Bakaneko|76203  Attaching to village
+[16:01:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Sachil Zoan|77022  Attaching to village
+[16:01:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Jaelynn Cassanova|58166  Attaching to village
+[16:01:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Dian Sol|83044  Attaching to village
+[16:01:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Cassandra Arun|71143  Attaching to village
+[16:01:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityTradesman|Tradesman|59066  Attaching to village
+[16:01:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Owen Varzand|80030  Attaching to village
+[16:01:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityGuard|Cassandra Talandro|83046  Attaching to village
+[16:01:03] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Nate Fallenbridge|71580  Attaching to village
+[16:01:03] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Davaril Bookworm|83037  Attaching to village
+[16:01:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityArchitect|Architect|82512  Attaching to village
+[16:01:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityFarmer|Rosemourne Kram|83038  Attaching to village
+[16:01:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=1296, y=67, z=682}
+[16:01:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=1305, y=68, z=682}
+[16:01:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Milos Shaulfer|82511  Attaching to village
+[16:01:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] EntityLumberjack|Sachil Zoan|83280  Attaching to village
+[16:01:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Removing structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:01:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Removing structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:01:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:01:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Adding structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:01:22] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] Village REMOVED - [ODA]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:01:22] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [ODA] == Village being destroyed ==
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Village ADDED - [3UR]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure TOWNHALL [BlockPos{x=1324, y=69, z=658}]
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1318, y=68, z=670}]
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME6 [BlockPos{x=1318, y=68, z=677}]
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1334, y=70, z=662}]
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Storage Chest [BlockPos{x=1340, y=69, z=649}]   Added    (1 total)
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Storage Chest [BlockPos{x=1338, y=69, z=654}]   Added    (2 total)
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Storage Chest [BlockPos{x=1342, y=69, z=649}]   Added    (3 total)
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure STORAGE [BlockPos{x=1338, y=69, z=658}]
+[16:01:25] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Jaelynn Cassanova|58166  Attaching to village
+[16:01:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Remora Revenmar|70698  Attaching to village
+[16:01:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Nate Fallenbridge|71580  Attaching to village
+[16:01:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Rosemourne Kram|83038  Attaching to village
+[16:01:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityNitwit|Cale Valur|57927  Attaching to village
+[16:01:26] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Austin Kroft|77041  Attaching to village
+[16:01:27] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Sachil Zoan|83280  Attaching to village
+[16:01:27] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Davaril Bookworm|83037  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityGuard|Madian Goldrudder|71142  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Milos Shaulfer|82511  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Gil Jones|57926  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Bennett Bookworm|75857  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Dian Sol|83044  Attaching to village
+[16:01:28] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityGuard|Cassandra Talandro|83046  Attaching to village
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1355, y=64, z=639}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1355, y=68, z=647}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Adding structure HOME2 [BlockPos{x=1343, y=69, z=662}]
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Owen Varzand|80030  Attaching to village
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Saidi Noises|82513  Attaching to village
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Bob Coldshore|83416  Attaching to village
+[16:01:29] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Cassandra Arun|71143  Attaching to village
+[16:01:30] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityArchitect|Architect|82512  Attaching to village
+[16:01:30] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Isaac Coyle|57924  Attaching to village
+[16:01:30] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityTradesman|Tradesman|59066  Attaching to village
+[16:01:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Zaid Bakaneko|76203  Attaching to village
+[16:01:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityFarmer|Gil Jones|57926  Skill Change - farmer --> 2
+[16:02:03] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Sachil Zoan|83280  ChopTree [ 1344, 751] Chopped: 5
+[16:02:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Village REMOVED - [3UR]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:02:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] == Village being destroyed ==
