@@ -4874,3 +4874,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [16:20:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] == Village being destroyed ==
 [16:21:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MAXI999 lost connection: Disconnected
 [16:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 left the game
+[16:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
+[16:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
