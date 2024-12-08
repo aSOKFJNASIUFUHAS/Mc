@@ -4808,3 +4808,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [16:10:53] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
 [16:11:39] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
 [16:15:06] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
+[16:15:28] [Server thread/INFO] [mca]: Villager death: Darrick. Caused by: FatherToast. UUID: 18562664-b98f-4883-b9be-7837933bf39c
+[16:15:40] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Village ADDED - [PG4]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure TOWNHALL [BlockPos{x=1324, y=69, z=658}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1318, y=68, z=670}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME6 [BlockPos{x=1318, y=68, z=677}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1334, y=70, z=662}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Storage Chest [BlockPos{x=1340, y=69, z=649}]   Added    (1 total)
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Storage Chest [BlockPos{x=1338, y=69, z=654}]   Added    (2 total)
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Storage Chest [BlockPos{x=1342, y=69, z=649}]   Added    (3 total)
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure STORAGE [BlockPos{x=1338, y=69, z=658}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1355, y=64, z=639}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1355, y=68, z=647}]
+[16:19:35] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1343, y=69, z=662}]
+[16:19:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[16:19:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:19:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Adding structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityGuard|Madian Goldrudder|101024  Attaching to village
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Zaid Bakaneko|100738  Attaching to village
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Rosemourne Kram|100970  Attaching to village
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Davaril Bookworm|101016  Attaching to village
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Nate Fallenbridge|100271  Attaching to village
+[16:19:39] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Milos Shaulfer|100963  Attaching to village
+[16:19:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Gil Jones|100967  Attaching to village
+[16:19:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Bob Coldshore|101020  Attaching to village
+[16:19:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Saidi Noises|99871  Attaching to village
+[16:19:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Cassandra Arun|100971  Attaching to village
+[16:19:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Jaelynn Cassanova|100331  Attaching to village
+[16:19:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Owen Varzand|100964  Attaching to village
+[16:19:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Remora Revenmar|100332  Attaching to village
+[16:19:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Isaac Coyle|101019  Attaching to village
+[16:19:42] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Bennett Bookworm|101009  Attaching to village
+[16:19:42] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityGuard|Cassandra Talandro|101010  Attaching to village
+[16:19:42] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Austin Kroft|100968  Attaching to village
+[16:19:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityTradesman|Tradesman|101458  Attaching to village
+[16:19:50] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityArchitect|Architect|101457  Attaching to village
+[16:19:57] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Bob Coldshore|101020  Crowding penalty [0] in HOME6 at BlockPos{x=1319, y=68, z=680}
+[16:19:58] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Rosemourne Kram|100970  Crowding penalty [-4] in HOME2 at BlockPos{x=1334, y=70, z=663}
+[16:19:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Zaid Bakaneko|100738  Crowding penalty [0] in HOME6 at BlockPos{x=1322, y=68, z=678}
+[16:20:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityFarmer|Jaelynn Cassanova|100331  Crowding penalty [-4] in HOME2 at BlockPos{x=1319, y=68, z=670}
+[16:20:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityLumberjack|Milos Shaulfer|100963  Crowding penalty [0] in HOME6 at BlockPos{x=1320, y=68, z=678}
+[16:20:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] EntityGuard|Madian Goldrudder|101024  Crowding penalty [-5] in HOME2 at BlockPos{x=1356, y=64, z=639}
+[16:20:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] Village REMOVED - [PG4]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:20:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [PG4] == Village being destroyed ==
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Village ADDED - [TTD]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure TOWNHALL [BlockPos{x=1324, y=69, z=658}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1318, y=68, z=670}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME6 [BlockPos{x=1318, y=68, z=677}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1334, y=70, z=662}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Storage Chest [BlockPos{x=1340, y=69, z=649}]   Added    (1 total)
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Storage Chest [BlockPos{x=1338, y=69, z=654}]   Added    (2 total)
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Storage Chest [BlockPos{x=1342, y=69, z=649}]   Added    (3 total)
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure STORAGE [BlockPos{x=1338, y=69, z=658}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1355, y=64, z=639}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1355, y=68, z=647}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1343, y=69, z=662}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME6 [BlockPos{x=1284, y=71, z=685}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1306, y=67, z=681}]
+[16:20:06] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Adding structure HOME2 [BlockPos{x=1297, y=66, z=681}]
+[16:20:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] EntityLumberjack|Isaac Coyle|101936  Attaching to village
+[16:20:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] Village REMOVED - [TTD]   13d7da9c-3593-4a96-8269-64e6fa2d1263
+[16:20:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [TTD] == Village being destroyed ==
+[16:21:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MAXI999 lost connection: Disconnected
+[16:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 left the game
