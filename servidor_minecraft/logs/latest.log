@@ -4801,3 +4801,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [16:02:03] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] EntityLumberjack|Sachil Zoan|83280  ChopTree [ 1344, 751] Chopped: 5
 [16:02:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] Village REMOVED - [3UR]   13d7da9c-3593-4a96-8269-64e6fa2d1263
 [16:02:07] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [3UR] == Village being destroyed ==
+[16:05:37] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [70, 56] in dimension 0 (overworld) while populating chunk [71, 57], causing cascading worldgen lag.
+[16:05:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:05:37] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [69, 56] in dimension 0 (overworld) while populating chunk [71, 57], causing cascading worldgen lag.
+[16:05:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:10:53] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
+[16:11:39] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset
+[16:15:06] [Server thread/INFO] [STDOUT]: [teamroots.emberroot.entity.knight.EntityFallenKnight:func_70636_d:105]: attack on collide reset

@@ -1458,3 +1458,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 2024-12-08 16:00:53,705 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! UNCOMMON chest at coords: 1336 70 968
 2024-12-08 16:00:57,599 [Server thread] INFO Treasure2 | WellGenerator.java:114 | CHEATER! Wishing Well at coords: 1350 81 982
 2024-12-08 16:01:02,199 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! COMMON chest at coords: 1416 93 1016
+2024-12-08 16:12:35,790 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! UNCOMMON chest at coords: 1128 74 984
+2024-12-08 16:15:06,942 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
+2024-12-08 16:15:06,942 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:364 | CHEATER! SCARCE chest at coords: 1256 75 1048
