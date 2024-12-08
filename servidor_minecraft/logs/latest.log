@@ -4876,3 +4876,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'of:item_mug'
 [16:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MAXI999 left the game
 [16:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
 [16:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[16:38:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
+[16:38:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[16:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[16:41:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:41:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[16:41:12] [Server thread/INFO] [NetherEx]: Writing Nether biome data configs to disk.
+[16:41:12] [Server thread/INFO] [NetherEx]: Writing Pigtificate trade configs to disk.
+[16:41:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:41:12] [Server thread/INFO] [FML]: Unloading dimension -9999
+[16:41:12] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 0 data blobs
+[16:41:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:41:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:41:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
