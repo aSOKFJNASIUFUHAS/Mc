@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2024-12-09 00:18:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-05 23:01:28 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-05 22:08:10 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2024-12-09 00:18:07 +0000"
     },
     "done": true
   },
